@@ -1,6 +1,6 @@
 # Multiclassification Disease Detection
 ## Introduction
-This project involves [brief description of the project].
+
 
 ## Prerequisites
 - Python 3
@@ -19,7 +19,7 @@ This project involves [brief description of the project].
 pip install numpy pandas matplotlib seaborn pillow opencv-python scikit-learn tensorflow
 
 
-#For prdiction with the specific model and for specific image
+# For prdiction with the specific model and for specific image
 ##Download the model and just run the folllowing command
 ...bash
 python predictor.py --model <model path> --image <img path>
